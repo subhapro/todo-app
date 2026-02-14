@@ -1,0 +1,1 @@
+To-Do App is a simple and interactive task management web application built using HTML, CSS, and JavaScript. It allows users to add, manage, and organize daily tasks efficiently. This project demonstrates basic front-end development concepts such as DOM manipulation, event handling, and dynamic content updates in the browser.
